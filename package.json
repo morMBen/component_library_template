@@ -1,5 +1,8 @@
 {
-  "name": "react_component_library_mmb",
+  "name": "@mormben/component_library_template",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mormben"
+  },
   "version": "0.0.1",
   "description": "A simple template for a custom React component library",
   "scripts": {
